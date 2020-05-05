@@ -1,0 +1,86 @@
+/*Universal*/
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin-top: 30px;
+}
+
+.invisible {
+  display: none;
+}
+
+.loader {
+  margin-top: 20px;
+}
+
+/*Header*/
+.logo {
+  margin-top: -20px;
+  margin-left: 20px;
+  float: right;
+}
+
+.logo-mobile {
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+/*Infographic & Infopiece */
+.infographic-header {
+  text-align: center;
+}
+
+.infographic-container {
+  margin: auto;
+}
+
+.last-updated {
+  text-align: center;
+}
+
+/*Dropdown*/
+.dropdown-container {
+  margin: auto;
+}
+
+@media screen and (max-width: 500px) {
+  .graph-container {
+    width: 400px;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  .graph-container {
+    margin: auto;
+    width: 80%;
+  }
+}
+
+/*Information*/
+.text {
+  margin: auto;
+  font-size: 15px;
+}
+
+.info-container {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+/*News */
+.news-container {
+  width: 65%;
+  margin: auto;
+}
+
+/*Footer*/
+.footer {
+  margin: auto;
+}
+
+.chevron {
+  margin: auto;
+}
