@@ -1,6 +1,6 @@
 # covidupdateAU
 
-https://www.covidupdateau.online
+https://www.covidupdateaus.online
 
 A simple web app that provides Australian data, statistics, information and news on the ongoing Coronavirus pandemic.
 
