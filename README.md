@@ -1,4 +1,4 @@
-# covidupdateAU
+# covidupdateAUS
 
 https://www.covidupdateaus.online
 
