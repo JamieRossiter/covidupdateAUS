@@ -7,7 +7,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "git": "^0.1.5",
     "netlify-lambda": "^1.6.3",
     "node-fetch": "^2.6.0",
